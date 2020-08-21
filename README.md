@@ -1,7 +1,7 @@
 # LinearRegression Cost Funciton Optimization 
 
 ## Why Cost Function 
-In Linear Regression we generally try to find out the best fit line , As we know linear regression y = mx +c and to have the best fit line we should have optimal m and c value. 
+In Linear Regression we generally try to find out the best fit line , As we know linear regression equation y = mx +c and to have the best fit line we should have optimal m and c value. 
 So Cost function helps us to reach the optimal solution 
 
 e.g. Cost function here is Residual sum of square (RSS) and our goal is to minimize this error.
