@@ -1,0 +1,2 @@
+# LinearRegression_OptimizationByClosedFormAndGradientDescent
+LinearRegression Optimization By Closed Form And GradientDescent
