@@ -27,3 +27,7 @@ e.g. Cost function here is Residual sum of square (RSS) and our goal is to minim
       Where η (Eta) is known as the learning rate, which defines the speed at which we want to move towards negative of the gradient.
  
 Please see the attached jupyter notebook for detailed implementation of both the approaches
+https://github.com/nveenkumr/LinearRegression_CostFunctionOptimization/blob/master/OptimizationbyClosedForm_GradientDescent.ipynb
+
+
+
